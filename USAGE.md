@@ -2,7 +2,7 @@
 
 [Arsha template](https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/) refactored as a Jekyll theme.
 
-[**🔗 Preview 🔗**](https://mlh-fellowship.github.io/jekyll-theme-arsha/)
+[**🔗 Preview 🔗**](https://m4rs-mt.github.io/ilgpu.webtheme/)
 
 ![Screenshot](./assets/img/Arsha-bootstrap-website-template.png)
 
