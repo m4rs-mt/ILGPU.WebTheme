@@ -153,6 +153,6 @@ Mapping between files (template => theme)
 ## Contributing
 
 Bug reports and pull requests are welcome
-on [GitHub@MLH-Fellowship/jekyll-theme-arsha](https://github.com/MLH-Fellowship/jekyll-theme-arsha).
+on [GitHub@m4rs-mt/ILGPU.WebTheme](https://github.com/m4rs-mt/ILGPU.WebTheme).
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to
 the [Contributor Covenant](http://contributor-covenant.org) code of conduct.

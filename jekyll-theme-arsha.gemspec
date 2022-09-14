@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.summary       = "Arsha template published as a Jekyll-Theme upgraded to latest version v4.8.0 with Bootstrap 5.2.0"
   spec.metadata["plugin_type"] = "theme"
   spec.platform      = Gem::Platform::RUBY
-  spec.homepage      = "https://github.com/MLH-Fellowship/jekyll-theme-arsha"
+  spec.homepage      = "https://github.com/m4rs-mt/ILGPU.WebTheme"
 
   spec.license       = "Nonstandard"
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README.md|USAGE.md|DEVELOPMENT.md|_config\.yml)!i) }

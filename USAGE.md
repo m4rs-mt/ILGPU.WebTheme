@@ -16,7 +16,7 @@ through [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme)
 Just add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-remote_theme: MLH-Fellowship/jekyll-theme-arsha
+remote_theme: m4rs-mt/ILGPU.WebTheme
 ```
 
 ### Other environments
